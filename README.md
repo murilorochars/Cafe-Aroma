@@ -1,5 +1,9 @@
-# Controle-de-estoque
-Projeto feito para controle de estoque de um supermercado.
+# Café & Aroma
+Este sistema é uma plataforma completa para gerenciar uma cafeteria, integrando um site para clientes e um sistema de controle de estoque para funcionários. A landing page funciona como a vitrine da cafeteria, apresentando informações institucionais, um cardápio online com fotos e descrições dos produtos, além de um formulário de contato e links para redes sociais.
+
+No backend, há um sistema restrito para funcionários e administradores, permitindo a autenticação de usuários com diferentes níveis de acesso. Esse sistema possibilita o cadastro, edição e remoção de produtos, além do controle de estoque, registrando entradas e saídas, alertando sobre produtos em baixa e gerando relatórios detalhados sobre vendas e movimentações.
+
+A aplicação é dividida entre um frontend desenvolvido em React, responsável por exibir as informações da cafeteria e interagir com o sistema de estoque, e um backend em Node.js com MySQL, que gerencia as operações e fornece APIs para integração.
 
 # Tecnologias
 <img 
